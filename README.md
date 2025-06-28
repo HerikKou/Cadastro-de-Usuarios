@@ -60,5 +60,4 @@ Configure o application.properties com suas credenciais
 
 Rode o projeto via IDE ou terminal
 
-🔗 Link do projeto
-https://github.com/HerikKou/Sistema-de-Login-e-Cadastro
+

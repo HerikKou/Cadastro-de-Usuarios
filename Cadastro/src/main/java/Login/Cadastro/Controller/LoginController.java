@@ -21,10 +21,7 @@ public class LoginController {
   @Autowired
   private CadastroService cadastroservice;
 
-  @GetMapping("/Hello")
-  public String HelloWord() {
-    return "Herllo-word";
-  }
+
 
   @PostMapping("/salvar")
   public ResponseEntity<?> Salvar(@RequestBody CadastroModel cadastro) {
